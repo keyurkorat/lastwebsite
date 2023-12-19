@@ -1,0 +1,195 @@
+.tcr{
+    color:black;
+
+}
+.tcr:hover{
+    color:red;
+    
+}
+
+.tcrm{
+    color:red;
+    
+}
+
+.fs{
+    font-size: 80px;
+}
+@media(max-width:600px){
+
+    .fs{
+        font-size:40px;
+    }
+
+}
+.bs1{
+    height: 100px;
+}
+.bs2{
+    height: 200px;
+}
+.bs3{
+    height: 50px;
+}
+.bu1{
+    height:45px;
+    
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    transition: 0.5s;
+    border:none
+}
+.bu1:hover{
+    height:45px;
+   
+    background-color: red;
+    color:white;
+    border-radius: 10px;
+    transition: 0.5s;
+    border: none;
+
+}
+
+.bu2{
+    height:45px;
+ 
+    background-color: transparent;
+    color:black;
+    border-radius: 10px;
+    transition: 0.5s;
+    
+}
+.bu2:hover{
+    height:45px;
+
+    background-color:black;
+    color:white;
+    border-radius: 10px;
+    transition: 0.5s;
+    border: none;
+
+}
+
+
+
+.box1{
+    box-shadow: 10px 10px 0px black;
+    border-radius: 40px;
+}
+
+.box2{
+
+    height:60px;
+    width:60px;
+font-size: 30px;
+    border-radius: 20px;
+    border:2px solid black;
+    color:black;
+  
+}
+
+
+.box2:hover{
+
+    height:60px;
+    width:60px;
+font-size: 30px;
+    border-radius: 20px;
+    border:2px solid red;
+    color:red;
+
+  
+}
+
+.box3{
+
+    height: 200px;
+    width:100%;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.box3:hover{
+
+    height: 200px;
+    width:100%;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 8px 8px 0px black;
+}
+.bgp{
+    background: hsl(248, 67%, 8%);
+}
+.bgpink{
+    color: red;
+    font-size:60px;
+}
+
+.bu3{
+    height:45px;
+    width:200px;
+    background-color: hsl(248, 67%, 8%);
+    color:white;
+    border-radius: 10px;
+    transition: 0.5s;
+    border-color: white;
+    
+}
+.bu3:hover{
+    height:45px;
+    width:200px;
+    background-color:rgb(222, 120, 4);
+    color:white;
+    border-radius: 10px;
+    transition: 0.5s;
+   
+   
+
+
+}
+.box4{
+
+   
+ 
+    height: 300px;
+    
+    
+   
+    border:2px solid black;
+    border-radius: 30px;
+}
+
+.box4:hover{
+
+    height: 300px;
+    
+
+  
+    box-shadow: 5px 5px 0px black;
+   
+    border:2px solid black;
+    border-radius: 30px;
+}
+
+.bgs{
+    background: rgb(209, 232, 241);
+}
+
+.box5{
+
+    border-radius: 10px;
+    border:2px solid black;
+    background: white;
+}
+.box5:hover{
+
+    border-radius: 10px;
+    border:2px solid black;
+    background: white;
+    box-shadow: 5px 5px 0px black;
+}
+
+.foam{
+    height:50px;width:100%;outline:none;
+}
